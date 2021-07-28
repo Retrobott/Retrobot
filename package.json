@@ -1,0 +1,24 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description":"ds",
+  "main": "cavebot.js",
+  "author": "Shafkat",
+  "script": {
+    "node .": "node run cavebot.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "canvas": "^2.6.1",
+    "discord-canvas": "^1.4.1",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.5.3",
+    "opusscript": "0.0.7",
+    "winston": "^3.3.3",
+    "ytdl-core": "^3.4.1",
+    "ytpl": "^1.0.1",
+    "ytsr": "^1.0.4",
+    "dotenv": "^10.0.0",
+    "pm2": "^5.1.0"
+  }
+}
